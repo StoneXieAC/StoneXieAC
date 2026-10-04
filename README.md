@@ -16,7 +16,7 @@ I'm a Software Engineering (FinTech Track) undergraduate at Northeastern Univers
 
 | Date | Competition | Result |
 | :-- | :-- | :-- |
-| 2026.02 | **The 50th ICPC Asia East Final** | 🥇 **Gold Medal** |
-| 2025.11 | **The 11th CCPC (Zhengzhou)** | 🏆 **3rd Place** |
-| 2025.05 | **The 50th ICPC Invitational Contest (Xi’an)** | 🏆 **Champion** |
+| 2026.02 | **The 50th ICPC Asia East Continent Final Contest** | 🥇 **Gold Medal** |
+| 2025.11 | **The 11th CCPC Zhengzhou Site** | 🏆 **3rd Place** |
+| 2025.05 | **The 50th ICPC Xi'an National Invitational Contest** | 🏆 **Champion** |
 | 2026.05 | **The 20th Northeast Collegiate Programming Contest** | 🏆 **Champion** |
