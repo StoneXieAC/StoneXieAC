@@ -2,9 +2,9 @@
 
 <h1><samp>Tian-Shi Xie</samp></h1>
 
-<a href="https://codeforces.com/profile/StoneXie"><img src="https://img.shields.io/badge/Codeforces-StoneXie-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-<a href="https://stonexieac.github.io/"><img src="https://img.shields.io/badge/Homepage-StoneXieAC-58A6FF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAzIDIgMTJoM3Y5aDV2LTZoNHY2aDV2LTloM0wxMiAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Homepage" /></a>
-<a href="mailto:xietianshi123@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-5865F2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://codeforces.com/profile/StoneXie"><img src="https://img.shields.io/badge/Codeforces-StoneXie-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+<a href="https://stonexieac.github.io/"><img src="https://img.shields.io/badge/Homepage-StoneXieAC-0066FF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAzIDIgMTJoM3Y5aDV2LTZoNHY2aDV2LTloM0wxMiAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Homepage" /></a>
+<a href="mailto:xietianshi123@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
